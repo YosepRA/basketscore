@@ -1,4 +1,4 @@
-# Basket Score Management App
+# Basketball Score Management App
 
 This is the app that will be used for people who update a basketball match's scoresheet behind the scene. 
 

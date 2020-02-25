@@ -1,0 +1,50 @@
+{
+  "teamName": "LA Lakers",
+  "logo": "logo-lakers.png",
+  "logoTransparent": "logo-lakers-transparent.png",
+  "brandColor": "#fcb827",
+  "players": [
+    {
+      "id": 1,
+      "name": "LeBron James",
+      "jerseyNumber": 23,
+      "image": "lebron-james.png"
+    },
+    {
+      "id": 2,
+      "name": "Anthony Davis",
+      "jerseyNumber": 3,
+      "image": "anthony-davis.png"
+    },
+    {
+      "id": 3,
+      "name": "JaVale McGee",
+      "jerseyNumber": 7,
+      "image": "javale-mcgee.png"
+    },
+    {
+      "id": 4,
+      "name": "Avery Bradley",
+      "jerseyNumber": 11,
+      "image": "avery-bradley.png"
+    },
+    {
+      "id": 5,
+      "name": "Danny Green",
+      "jerseyNumber": 14,
+      "image": "danny-green.png"
+    },
+    {
+      "id": 6,
+      "name": "Kyle Kuzma",
+      "jerseyNumber": 0,
+      "image": "kyle-kuzma.png"
+    },
+    {
+      "id": 7,
+      "name": "Alex Caruso",
+      "jerseyNumber": 4,
+      "image": "alex-caruso.png"
+    }
+  ]
+}

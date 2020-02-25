@@ -1,0 +1,50 @@
+{
+  "teamName": "LA Clippers",
+  "logo": "logo-clippers.png",
+  "logoTransparent": "logo-clippers-transparent.png",
+  "brandColor": "#1d428a",
+  "players": [
+    {
+      "id": 1,
+      "name": "Paul George",
+      "jerseyNumber": 13,
+      "image": "paul-george.png"
+    },
+    {
+      "id": 2,
+      "name": "Marcus Morris",
+      "jerseyNumber": 31,
+      "image": "marcus-morris.png"
+    },
+    {
+      "id": 3,
+      "name": "Ivica Zubac",
+      "jerseyNumber": 40,
+      "image": "ivica-zubac.png"
+    },
+    {
+      "id": 4,
+      "name": "Kawhi Leonard",
+      "jerseyNumber": 2,
+      "image": "kawhi-leonard.png"
+    },
+    {
+      "id": 5,
+      "name": "Landry Shamet",
+      "jerseyNumber": 20,
+      "image": "landry-shamet.png"
+    },
+    {
+      "id": 6,
+      "name": "Lou Williams",
+      "jerseyNumber": 23,
+      "image": "lou-williams.png"
+    },
+    {
+      "id": 7,
+      "name": "Montrezl Harrell",
+      "jerseyNumber": 5,
+      "image": "montrezl-harrell.png"
+    }
+  ]
+}
